@@ -101,10 +101,10 @@ Happy coding! 🚀
 
  ```
         A
-        BB
-        CCC
-        DDDD
-        EEEEE
+        AB
+        ABC
+        ABCD
+        ABCDE
  ```
 
 08. **Inverted Pyramid Pattern**
